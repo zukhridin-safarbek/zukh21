@@ -1,5 +1,6 @@
 ## MySelf
-- 👋 Hi, I’m @zukh21
+- 👋 Hi, I’m <b>Zukhridin</b>
+- Last name <b> Safarbek uulu</b>
 - I'm <b>ANDROID DEVELOPER</b> <img src="https://demiart.ru/forum/uploads16/post-755799-1448833604.png" width="17" />
 - 21 years old
 - I'm from <b>KYRGYZSTAN</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/375px-Flag_of_Kyrgyzstan.svg.png" width="20">
