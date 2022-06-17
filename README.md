@@ -13,5 +13,8 @@
 - Основы Java
 <img src="https://i.mycdn.me/i?r=AyH4iRPQ2q0otWIFepML2LxRiusDWBT4PIMDir1LhjZ2Hg" width="200" />
 
+- Разработка приложений на Kotlin
+<img src="https://i.mycdn.me/i?r=AyH4iRPQ2q0otWIFepML2LxR9cn63vr0e4auwIcrFtsNlg" width="200" />
+
 ## Social networks
 <a href="https://instagram.com/zukh.kamchybekov"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" alt="zukh.kamchybekov" height="32"/></a>
