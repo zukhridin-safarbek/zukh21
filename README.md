@@ -3,6 +3,7 @@
 <h3>Мой стек</h3>
 Android SDK, Android Studio, Kotin, Coroutines, Room, Dagger2/Hilt, MVVM, Glide, ExoPlayer, Retrofit 2, RecyclerView, Pager 3, JSON, GSON, Motion Layout, ООП, Gradle, Git, MySQL, Google Map
 ## Вот, что я умею
+
 - Дипломный проект (<a href="https://github.com/zukh21/NeWork">NeWork</a>) <br>
 - Учебный проект (<a href="https://github.com/zukh21/NMedia">NMedia</a>) <br>
 - Google карта (<a href="https://github.com/zukh21/GoogleMapsMarker">Google map marker</a>) <br>
