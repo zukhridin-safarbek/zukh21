@@ -8,7 +8,7 @@ Android SDK, Android Studio, Kotin, Coroutines, Room, Dagger2/Hilt, MVVM, Glide,
 - Google карта (<a href="https://github.com/zukh21/GoogleMapsMarker">Google map marker</a>)
 - Сокращать числа и добавить окончание (<a href="https://github.com/zukh21/count-likes/">Count likes</a>)
 ## Сертификаты Нетологии
-- Продвинутая разработка под Android (<a href="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/243717/c2461feef5196dd313bf23702a7384e9.png?ts=1674564943"/>)
+- <a href="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/243717/c2461feef5196dd313bf23702a7384e9.png?ts=1674564943">Продвинутая разработка под Android</a>
 
 - Промышленная разработка под Android (<a href="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/214976/1fd6f75504158aaabd3dad015872e36d.png?ts=1668432955"/>)
 
