@@ -25,3 +25,4 @@ Android SDK, Android Studio, Kotin, Coroutines, Room, Dagger2/Hilt, MVVM, Glide,
 
 ## Социальные сети
 <a href="https://instagram.com/zukh.kamchybekov"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" alt="zukh.kamchybekov" height="32"/></a>
+<a href="https://taplink.cc/zukhridinsafarbekuulu">TapLink</a>
