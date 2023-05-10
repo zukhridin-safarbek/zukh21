@@ -23,5 +23,5 @@ Android SDK, Android Studio, Kotin, Coroutines, Room, Dagger2/Hilt, MVVM, Glide,
 
 -  <a href="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/133555/ad924f0c0acf01f500b18460c06d0e9b.png?ts=1648150584">Основы Java         <img src="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/133555/ad924f0c0acf01f500b18460c06d0e9b.png?ts=1648150584" height="32"/></a> 
 
-## Social networks
+## Социальные сети
 <a href="https://instagram.com/zukh.kamchybekov"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" alt="zukh.kamchybekov" height="32"/></a>
