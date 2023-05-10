@@ -1,6 +1,7 @@
-<h3>Привет</h3>
+<h1>Привет</h1>
 Я <b>Сафарбек уулу Зухридин</b> Разработчик на Kotlin под Android
-<h3>Мой стек</h3>
+
+## Мой стек
 Android SDK, Android Studio, Kotin, Coroutines, Room, Dagger2/Hilt, MVVM, Glide, ExoPlayer, Retrofit 2, RecyclerView, Pager 3, JSON, GSON, Motion Layout, ООП, Gradle, Git, MySQL, Google Map
 
 ## Вот, что я умею
@@ -10,7 +11,6 @@ Android SDK, Android Studio, Kotin, Coroutines, Room, Dagger2/Hilt, MVVM, Glide,
 - Сокращать числа и добавить окончание (<a href="https://github.com/zukh21/count-likes/">Count likes</a>) <br>
 
 ## Сертификаты Нетологии
-
 - <a href="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/243717/c2461feef5196dd313bf23702a7384e9.png?ts=1674564943">Продвинутая разработка под Android</a>
 
 - Промышленная разработка под Android (<a href="https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/214976/1fd6f75504158aaabd3dad015872e36d.png?ts=1668432955"/>)
