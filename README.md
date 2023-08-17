@@ -2,7 +2,7 @@
 Я <b>Сафарбек уулу Зухридин</b> Разработчик на Kotlin под Android
 
 ## Мой стек
-Android SDK, Android Studio, Kotin, Coroutines, Room, Dagger2/Hilt, MVVM, Glide, ExoPlayer, Retrofit 2, RecyclerView, Pager 3, JSON, GSON, Motion Layout, ООП, Gradle, Git, MySQL, Google Map
+Android SDK, Android Studio, Kotin, Coroutines, Room, Dagger2/Hilt, MVVM, Glide, ExoPlayer, Retrofit 2, RecyclerView, Pager 3, JSON, GSON, Motion Layout, ООП, Gradle, Git, MySQL, Google Map, Jetpack Compose
 
 ## Вот, что я умею
 - Дипломный проект (<a href="https://github.com/zukh21/NeWork">NeWork</a>) <br>
